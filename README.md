@@ -26,7 +26,7 @@ import hashlib
 ## Usage
 1) Clone repository
 2) In terminal, navigate to the repository
-3) Use command ```python streamlit run pychain.py ``` to open the application in streamlit. 
+3) Use command ```streamlit run pychain.py ``` to open the application in streamlit. 
 ---
 ## Streamlit Dashboard
 ![Streamlit Interface](https://user-images.githubusercontent.com/90667844/152048026-8bc7af63-c35f-49ff-9c35-62cd270b9a35.png)
