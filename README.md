@@ -31,7 +31,7 @@ import hashlib
 ## Streamlit Dashboard
 ![Streamlit Interface](https://user-images.githubusercontent.com/90667844/152048026-8bc7af63-c35f-49ff-9c35-62cd270b9a35.png)
 ---
-## Validate Chain
+## Use the "Validate Chain" button to validate the ledger. 
 ![Validate Chain](https://user-images.githubusercontent.com/90667844/152048450-85387c31-d294-4399-ad7f-c10dbf54cb86.png)
 ---
 ## Inspect a select block in the chain. 
