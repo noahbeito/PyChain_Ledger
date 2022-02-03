@@ -24,9 +24,12 @@ import hashlib
 ```
 ---
 ## Usage
-1) Clone repository
-2) In terminal, navigate to the repository
-3) Use command ```streamlit run pychain.py ``` to open the application in streamlit. 
+1. In the terminal, navigate to the folder where you've cloned the repository.
+
+2. In the terminal, run the Streamlit application by using `streamlit run pychain.py`.
+
+3. Enter values for the sender, receiver, and amount, and then click the "Add Block" button. Do this several times to store several blocks in the ledger.
+
 ---
 ## Streamlit Dashboard
 ![Streamlit Interface](https://user-images.githubusercontent.com/90667844/152048026-8bc7af63-c35f-49ff-9c35-62cd270b9a35.png)
